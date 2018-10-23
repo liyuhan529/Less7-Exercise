@@ -1,0 +1,8 @@
+---
+title: "Collaborating in GitHub"
+output: html_document
+---
+
+In the class today, we learned something about collaborating by using github. Each of us need to make some changes to this original file. 
+
+Let's do it!
