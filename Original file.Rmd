@@ -7,4 +7,10 @@ output: html_document
 In the class today, we learned something about collaborating by using github. Each of us need to make some changes to this original file. This is the changes added by Boxin. 
 
 
+<<<<<<< HEAD
+Let's do it! GOGOGO!!!
+
+Yi: I am smart and I am not fat.
+
 Let's do it! But what we should do?
+>>>>>>> 1a8eaabb09a10740bceeb1990178390e410ae330
